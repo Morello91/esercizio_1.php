@@ -12,7 +12,7 @@
 
 $altezza = $_GET["a"];
 $base = $_GET["b"];
-$ipotenusa = $_GET["i"];
+// $ipotenusa = $_GET["i"];
 
 echo "<html>" . PHP_EOL;
 echo "<head>" . PHP_EOL;
